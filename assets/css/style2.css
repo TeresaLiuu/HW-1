@@ -1,5 +1,5 @@
 body{
-    background-image:url("bananas.png");
+  background-image:url("../images/bananas.png");
 }
 *,html{
   margin: 0;
